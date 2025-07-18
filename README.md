@@ -26,11 +26,11 @@ Future improvements will focus on integrating deep learning architectures and le
 Technologies Used
 Python
 
-Scikit-learn (for ML models)
+1.Scikit-learn (for ML models)
 
-Pandas (for data manipulation)
+2.Pandas (for data manipulation)
 
-NumPy (for numerical operations)
+3.NumPy (for numerical operations)
 
 (You can add specific libraries for chatbot, real-time prediction, or health trend analysis here if you've already implemented them, e.g., NLTK, Flask, etc.)
 
@@ -47,7 +47,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+                      git clone https://github.com/your-username/your-repository-name.git
 Navigate to the project directory:
 
 Bash
