@@ -38,33 +38,29 @@ Getting Started
 To get a local copy up and running, follow these simple steps.
 
 Prerequisites
-Python 3.x
-
-pip
+->Python 3.x
+->pip
 
 Installation
 Clone the repository:
 
 Bash
 
-                      git clone https://github.com/your-username/your-repository-name.git
+                  git clone https://github.com/NishkaAgarwal2005/Heart_disease_risk_prediction.git
 Navigate to the project directory:
-
 Bash
 
-cd your-repository-name
+                  cd Heart_disease_risk_prediction
 Install the required packages:
-
 Bash
 
-pip install -r requirements.txt
+                  pip install -r requirements.txt
 Usage
 (Provide clear instructions on how to run your code, e.g., how to run the prediction script, how to start the chatbot, etc. You might include code snippets here.)
 
 Example:
-
 Bash
 
-python predict.py --data your_patient_data.csv
+                 python predict.py --data your_patient_data.csv
 Dataset
 This project utilized the Heart Disease Dataset. (You might want to add a link to the dataset or provide a brief description of where it can be obtained.)
