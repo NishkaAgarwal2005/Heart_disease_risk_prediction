@@ -1,0 +1,1 @@
+{"gender": ["Male", "Female"], "cholesterol": ["Normal", "Well Above Normal", "Above Normal"], "gluc": ["Normal", "Above Normal", "Well Above Normal"], "smoke": ["No", "Frequently", "Yes"], "alco": ["No", "Frequently", "Yes"], "active": ["Yes", "No"]}

@@ -1,0 +1,15 @@
+jupyter==1.0.0
+matplotlib==3.7.3
+numpy==1.26.4
+pandas==2.2.2
+PyYAML==6.0.1
+requests==2.32.3
+scikit-learn==1.5.0
+scikit-plot==0.3.7
+scipy==1.11.4
+seaborn==0.13.2
+streamlit==1.35.0
+urllib3==2.2.1
+watchdog==4.0.1
+streamlit-login-auth-ui==0.2.0
+trycourier==4.2.0
